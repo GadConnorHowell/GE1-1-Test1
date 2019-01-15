@@ -6,6 +6,8 @@ public class TestController : MonoBehaviour {
 
     //this is a git hub tests
 
+        //this a change to the script 
+
 	// Use this for initialization
 	void Start () {
 		
