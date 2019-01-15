@@ -8,6 +8,8 @@ public class TestController : MonoBehaviour {
 
         //this a change to the script 
 
+        //new change
+
 	// Use this for initialization
 	void Start () {
 		
